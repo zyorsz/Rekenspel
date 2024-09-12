@@ -1,0 +1,9 @@
+Niels:
+1. Installeer GIT Bash
+2. Gebruik source control in VS Code
+3. Open GIT Bash in VS code in /localhost/
+4. Clone het rekenspel repository van GitHub
+5. Commit alle veranderingen op een eigen gemaakte branch op Github
+
+
+Vraag Ruud voor hulp!
